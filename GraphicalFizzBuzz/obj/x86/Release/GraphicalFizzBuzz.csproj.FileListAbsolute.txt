@@ -1,0 +1,9 @@
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\bin\x86\Release\GraphicalFizzBuzz.exe.config
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\bin\x86\Release\GraphicalFizzBuzz.exe
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\bin\x86\Release\GraphicalFizzBuzz.pdb
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.about.resources
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.Form1.resources
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.Properties.Resources.resources
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.csproj.GenerateResource.Cache
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.exe
+c:\users\xnite\documents\visual studio 2015\Projects\GraphicalFizzBuzz\GraphicalFizzBuzz\obj\x86\Release\GraphicalFizzBuzz.pdb
